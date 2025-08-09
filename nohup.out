@@ -1,0 +1,326 @@
+[I 2025-07-09 11:48:45,192] A new study created in memory with name: no-name-dc5984f0-9384-44ae-9507-e371c014cb4e
+Reading CSV...
+Full dataset shape: (24310, 3299)
+Extracting paired features...
+Performing feature engineering...
+Total features used: 4160
+Scaling features...
+Splitting train and test sets...
+Optimizing hyperparameters...
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+[I 2025-07-09 12:30:46,129] Trial 5 finished with value: 0.6336213429626654 and parameters: {'class_weight_ratio': 1.59820772291035, 'C': 25030.209596806348, 'penalty': 'l2'}. Best is trial 5 with value: 0.6336213429626654.
+[I 2025-07-09 12:34:27,835] Trial 0 finished with value: 0.0 and parameters: {'class_weight_ratio': 1.9023273599458472, 'C': 0.0008233558777078677, 'penalty': 'l1'}. Best is trial 5 with value: 0.6336213429626654.
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+[I 2025-07-09 14:42:09,212] Trial 6 finished with value: 0.634212572335555 and parameters: {'class_weight_ratio': 1.5891095711895198, 'C': 6.707189587827405, 'penalty': 'l2'}. Best is trial 6 with value: 0.634212572335555.
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+[I 2025-07-09 16:04:51,581] Trial 8 finished with value: 0.6119325290915955 and parameters: {'class_weight_ratio': 1.8541466918913376, 'C': 0.09796207060838705, 'penalty': 'elasticnet', 'l1_ratio': 0.9389056760989712}. Best is trial 6 with value: 0.634212572335555.
+[I 2025-07-09 16:23:48,807] Trial 3 finished with value: 0.5810142559544337 and parameters: {'class_weight_ratio': 1.5417231908389009, 'C': 0.0297911185596766, 'penalty': 'l1'}. Best is trial 6 with value: 0.634212572335555.
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+[I 2025-07-09 16:32:23,855] Trial 9 finished with value: 0.6339703476706673 and parameters: {'class_weight_ratio': 1.5169224656339237, 'C': 3.9391047492055105, 'penalty': 'elasticnet', 'l1_ratio': 0.5329945385736492}. Best is trial 6 with value: 0.634212572335555.
+[I 2025-07-09 16:40:35,905] Trial 4 finished with value: 0.6186195263859984 and parameters: {'class_weight_ratio': 1.8996843599117552, 'C': 0.03883857089503413, 'penalty': 'l2'}. Best is trial 6 with value: 0.634212572335555.
+[I 2025-07-09 16:54:20,439] Trial 1 finished with value: 0.6288215589643814 and parameters: {'class_weight_ratio': 1.773567675034701, 'C': 2464.199321009577, 'penalty': 'l1'}. Best is trial 6 with value: 0.634212572335555.
+[I 2025-07-09 17:08:51,167] Trial 7 finished with value: 0.6335495826912699 and parameters: {'class_weight_ratio': 1.5052950499262898, 'C': 106.88711789824485, 'penalty': 'l1'}. Best is trial 6 with value: 0.634212572335555.
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_sag.py:350: ConvergenceWarning: The max_iter was reached which means the coef_ did not converge
+  warnings.warn(
+[I 2025-07-09 17:29:41,853] Trial 2 finished with value: 0.6291205690033641 and parameters: {'class_weight_ratio': 1.8085855703053613, 'C': 9.30945136497995, 'penalty': 'l1'}. Best is trial 6 with value: 0.634212572335555.
+[I 2025-07-09 17:29:41,854] A new study created in memory with name: no-name-017844fe-7f73-4530-b303-ee5853c75ed8
+/home/prateek/miniconda3/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:752: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+[I 2025-07-09 20:07:25,455] Trial 2 finished with value: 0.0 and parameters: {'class_weight_ratio': 1.5232751347273454, 'C': 0.003861943942410701, 'kernel': 'rbf', 'gamma': 0.00014597038778371626}. Best is trial 2 with value: 0.0.
+[I 2025-07-09 22:08:33,666] Trial 0 finished with value: 0.6147251834100882 and parameters: {'class_weight_ratio': 1.5540905113655756, 'C': 3220.851310553578, 'kernel': 'rbf', 'gamma': 1.573574177851053e-05}. Best is trial 0 with value: 0.6147251834100882.
+[I 2025-07-09 23:19:05,011] Trial 6 finished with value: 0.5757068065960335 and parameters: {'class_weight_ratio': 1.625727670022795, 'C': 3.4316940027222604, 'kernel': 'poly', 'gamma': 0.000567788080267244}. Best is trial 0 with value: 0.6147251834100882.
+[I 2025-07-09 23:28:28,455] Trial 1 finished with value: 0.5833864948850769 and parameters: {'class_weight_ratio': 1.763044013611274, 'C': 7.043870517610024e-05, 'kernel': 'poly', 'gamma': 0.016513994806241345}. Best is trial 0 with value: 0.6147251834100882.
+[I 2025-07-10 00:12:15,754] Trial 5 finished with value: 0.153710151031372 and parameters: {'class_weight_ratio': 1.9738016820242408, 'C': 343.156695004355, 'kernel': 'sigmoid', 'gamma': 0.0001563760387358968}. Best is trial 0 with value: 0.6147251834100882.
+[I 2025-07-10 00:24:12,936] Trial 3 finished with value: 0.008633179848208865 and parameters: {'class_weight_ratio': 1.6965048649173609, 'C': 127.61255572029349, 'kernel': 'sigmoid', 'gamma': 0.0005872921049901377}. Best is trial 0 with value: 0.6147251834100882.
+[I 2025-07-10 00:55:05,135] Trial 4 finished with value: 0.07646178969317086 and parameters: {'class_weight_ratio': 1.969597015600234, 'C': 28.2176423246523, 'kernel': 'poly', 'gamma': 1.5748783642186548e-05}. Best is trial 0 with value: 0.6147251834100882.
+[I 2025-07-10 01:46:54,986] Trial 8 finished with value: 0.0 and parameters: {'class_weight_ratio': 1.757205532191481, 'C': 0.0029218106133345172, 'kernel': 'rbf', 'gamma': 0.3372029201720032}. Best is trial 0 with value: 0.6147251834100882.
+[I 2025-07-10 02:16:37,597] Trial 7 finished with value: 0.5514350444378207 and parameters: {'class_weight_ratio': 1.6305192822118781, 'C': 12.881305240884895, 'kernel': 'rbf', 'gamma': 1.3114009074224652e-05}. Best is trial 0 with value: 0.6147251834100882.
+[I 2025-07-10 02:24:05,543] Trial 9 finished with value: 0.47160473090864574 and parameters: {'class_weight_ratio': 1.7104198122574927, 'C': 18621.47126751409, 'kernel': 'sigmoid', 'gamma': 1.931783200938056e-05}. Best is trial 0 with value: 0.6147251834100882.
+[I 2025-07-10 02:24:05,545] A new study created in memory with name: no-name-f827a90b-e82d-45b5-831a-547d57fd6415
+[I 2025-07-10 02:24:36,709] Trial 0 finished with value: 0.6094013308248698 and parameters: {'class_weight_ratio': 1.7650657871316375, 'n_estimators': 432, 'max_depth': 85, 'min_samples_split': 5, 'min_samples_leaf': 10, 'max_features': 'log2'}. Best is trial 0 with value: 0.6094013308248698.
+[I 2025-07-10 02:25:07,786] Trial 3 finished with value: 0.6428137994504259 and parameters: {'class_weight_ratio': 1.9164351784351652, 'n_estimators': 489, 'max_depth': 83, 'min_samples_split': 3, 'min_samples_leaf': 1, 'max_features': 'log2'}. Best is trial 3 with value: 0.6428137994504259.
+[I 2025-07-10 02:25:08,790] Trial 1 finished with value: 0.6493063953526287 and parameters: {'class_weight_ratio': 1.9314171782467509, 'n_estimators': 360, 'max_depth': 57, 'min_samples_split': 8, 'min_samples_leaf': 3, 'max_features': 'sqrt'}. Best is trial 1 with value: 0.6493063953526287.
+[I 2025-07-10 02:58:23,287] Trial 2 finished with value: 0.627806553319623 and parameters: {'class_weight_ratio': 1.8690963992958465, 'n_estimators': 305, 'max_depth': 29, 'min_samples_split': 17, 'min_samples_leaf': 6, 'max_features': None}. Best is trial 1 with value: 0.6493063953526287.
+[I 2025-07-10 02:59:51,505] Trial 7 finished with value: 0.6453303570804879 and parameters: {'class_weight_ratio': 1.7859565793364185, 'n_estimators': 476, 'max_depth': 20, 'min_samples_split': 10, 'min_samples_leaf': 3, 'max_features': 'sqrt'}. Best is trial 1 with value: 0.6493063953526287.
+[I 2025-07-10 04:08:44,973] Trial 9 finished with value: 0.5958980242516945 and parameters: {'class_weight_ratio': 1.5801082078814708, 'n_estimators': 607, 'max_depth': 10, 'min_samples_split': 5, 'min_samples_leaf': 1, 'max_features': 'sqrt'}. Best is trial 1 with value: 0.6493063953526287.
+[I 2025-07-10 04:10:07,743] Trial 8 finished with value: 0.6213875634293352 and parameters: {'class_weight_ratio': 1.7037931298492461, 'n_estimators': 467, 'max_depth': 42, 'min_samples_split': 8, 'min_samples_leaf': 7, 'max_features': 'log2'}. Best is trial 1 with value: 0.6493063953526287.
+[I 2025-07-10 04:26:48,314] Trial 4 finished with value: 0.6299653695035543 and parameters: {'class_weight_ratio': 1.9783110759985838, 'n_estimators': 985, 'max_depth': 17, 'min_samples_split': 9, 'min_samples_leaf': 5, 'max_features': None}. Best is trial 1 with value: 0.6493063953526287.
+[I 2025-07-10 05:29:06,994] Trial 6 finished with value: 0.633933912652257 and parameters: {'class_weight_ratio': 1.539978512254163, 'n_estimators': 515, 'max_depth': 54, 'min_samples_split': 10, 'min_samples_leaf': 7, 'max_features': None}. Best is trial 1 with value: 0.6493063953526287.
+[I 2025-07-10 05:29:46,277] Trial 5 finished with value: 0.6293544236895998 and parameters: {'class_weight_ratio': 1.8315119905183275, 'n_estimators': 994, 'max_depth': 29, 'min_samples_split': 4, 'min_samples_leaf': 9, 'max_features': None}. Best is trial 1 with value: 0.6493063953526287.
+[I 2025-07-10 05:29:46,280] A new study created in memory with name: no-name-fca64eff-3ee2-4485-ad6d-7a8202e4c00e
+/home/prateek/miniconda3/lib/python3.12/site-packages/joblib/externals/loky/process_executor.py:752: UserWarning: A worker stopped while some jobs were given to the executor. This can be caused by a too short worker timeout or by a memory leak.
+  warnings.warn(
+[I 2025-07-10 05:40:31,988] Trial 0 finished with value: 0.6635241859828441 and parameters: {'n_estimators': 342, 'max_depth': 15, 'learning_rate': 0.2852423807444688, 'subsample': 0.966188951936711, 'colsample_bytree': 0.7855234633885537, 'min_child_weight': 8, 'gamma': 0.16469643452750138, 'reg_alpha': 0.4574802431042132, 'reg_lambda': 0.4998300157603669, 'scale_pos_weight': 1.6727760303574255}. Best is trial 0 with value: 0.6635241859828441.
+[I 2025-07-10 05:42:11,422] Trial 2 finished with value: 0.51861378891595 and parameters: {'n_estimators': 791, 'max_depth': 5, 'learning_rate': 0.0016960165669634715, 'subsample': 0.8452760112567558, 'colsample_bytree': 0.8213403177263618, 'min_child_weight': 8, 'gamma': 0.7206333135083236, 'reg_alpha': 0.7536948827121548, 'reg_lambda': 0.5958525920306926, 'scale_pos_weight': 1.6879988008873559}. Best is trial 0 with value: 0.6635241859828441.
+[I 2025-07-10 05:42:35,289] Trial 1 finished with value: 0.667952356227598 and parameters: {'n_estimators': 707, 'max_depth': 15, 'learning_rate': 0.18550251278222893, 'subsample': 0.6171028600859035, 'colsample_bytree': 0.8237522135190563, 'min_child_weight': 4, 'gamma': 0.2739902906436824, 'reg_alpha': 0.5947184396809793, 'reg_lambda': 0.7993330021315829, 'scale_pos_weight': 1.7346272220858783}. Best is trial 1 with value: 0.667952356227598.
+[I 2025-07-10 05:45:08,100] Trial 3 finished with value: 0.6731977629601479 and parameters: {'n_estimators': 525, 'max_depth': 14, 'learning_rate': 0.09231972475439738, 'subsample': 0.9992707236412883, 'colsample_bytree': 0.650832203397447, 'min_child_weight': 4, 'gamma': 0.707093291483827, 'reg_alpha': 0.9200519222241569, 'reg_lambda': 0.9393638250067533, 'scale_pos_weight': 1.6638021181684965}. Best is trial 3 with value: 0.6731977629601479.
+[I 2025-07-10 05:56:09,674] Trial 4 finished with value: 0.6102951516576677 and parameters: {'n_estimators': 907, 'max_depth': 7, 'learning_rate': 0.0031828613262419175, 'subsample': 0.6465486039582957, 'colsample_bytree': 0.9021290434089163, 'min_child_weight': 2, 'gamma': 0.9709166833572238, 'reg_alpha': 0.2880500234133768, 'reg_lambda': 0.39406850665275883, 'scale_pos_weight': 1.8760524126502196}. Best is trial 3 with value: 0.6731977629601479.
+[I 2025-07-10 06:08:24,171] Trial 6 finished with value: 0.6567216973390879 and parameters: {'n_estimators': 839, 'max_depth': 4, 'learning_rate': 0.03252027890044815, 'subsample': 0.6667022969236868, 'colsample_bytree': 0.9942946707897635, 'min_child_weight': 6, 'gamma': 0.4244301907845546, 'reg_alpha': 0.37546039431552936, 'reg_lambda': 0.8720379394681484, 'scale_pos_weight': 1.9901092155118687}. Best is trial 3 with value: 0.6731977629601479.
+[I 2025-07-10 06:14:01,783] Trial 8 finished with value: 0.6636590849891005 and parameters: {'n_estimators': 813, 'max_depth': 7, 'learning_rate': 0.15726989311142667, 'subsample': 0.6738488464091293, 'colsample_bytree': 0.791023507922546, 'min_child_weight': 5, 'gamma': 0.9502850812069663, 'reg_alpha': 0.9782832094109989, 'reg_lambda': 0.29761106916569535, 'scale_pos_weight': 1.7691829817722988}. Best is trial 3 with value: 0.6731977629601479.
+[I 2025-07-10 06:14:24,823] Trial 5 finished with value: 0.6447953284871335 and parameters: {'n_estimators': 623, 'max_depth': 4, 'learning_rate': 0.02697018012585991, 'subsample': 0.8338217352471401, 'colsample_bytree': 0.8029265636219429, 'min_child_weight': 1, 'gamma': 0.5508226695134489, 'reg_alpha': 0.554049035844226, 'reg_lambda': 0.459711576574682, 'scale_pos_weight': 1.6992667642753156}. Best is trial 3 with value: 0.6731977629601479.
+[I 2025-07-10 06:14:37,811] Trial 7 finished with value: 0.664303683075276 and parameters: {'n_estimators': 775, 'max_depth': 14, 'learning_rate': 0.16911880198923382, 'subsample': 0.8413992262501316, 'colsample_bytree': 0.8601825583756452, 'min_child_weight': 5, 'gamma': 0.2557005432668942, 'reg_alpha': 0.11171621680447119, 'reg_lambda': 0.6549283554482846, 'scale_pos_weight': 1.5971457754967404}. Best is trial 3 with value: 0.6731977629601479.
+[I 2025-07-10 06:17:00,581] Trial 9 finished with value: 0.6286625315946155 and parameters: {'n_estimators': 575, 'max_depth': 10, 'learning_rate': 0.0032950762715095966, 'subsample': 0.730258287187441, 'colsample_bytree': 0.8962174405337715, 'min_child_weight': 1, 'gamma': 0.5312339294979777, 'reg_alpha': 0.6191370043926614, 'reg_lambda': 0.826995089599661, 'scale_pos_weight': 1.58555791371951}. Best is trial 3 with value: 0.6731977629601479.
+
+Training and evaluating models...
+
+Training Logistic Regression...
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+Results for Logistic Regression (TEST):
+Accuracy: 0.8338
+AUC: 0.9118
+F1: 0.7538
+MCC: 0.6297
+Precision: 0.7834
+Recall: 0.7264
+
+Confusion Matrix:
+[[2817  342]
+ [ 466 1237]]
+
+Classification Report:
+                   pre       rec       spe        f1       geo       iba       sup
+
+      False       0.86      0.89      0.73      0.87      0.80      0.66      3159
+       True       0.78      0.73      0.89      0.75      0.80      0.64      1703
+
+avg / total       0.83      0.83      0.78      0.83      0.80      0.65      4862
+
+
+Results for Logistic Regression (TRAIN):
+Accuracy: 0.8618
+AUC: 0.9325
+F1: 0.7978
+MCC: 0.6934
+Precision: 0.8178
+Recall: 0.7789
+
+Confusion Matrix:
+[[11456  1182]
+ [ 1506  5304]]
+
+Classification Report:
+                   pre       rec       spe        f1       geo       iba       sup
+
+      False       0.88      0.91      0.78      0.90      0.84      0.72     12638
+       True       0.82      0.78      0.91      0.80      0.84      0.70      6810
+
+avg / total       0.86      0.86      0.82      0.86      0.84      0.71     19448
+
+
+Best Parameters:
+{'C': 6.707189587827405, 'penalty': 'l2'}
+
+Training SVM...
+
+Results for SVM (TEST):
+Accuracy: 0.8299
+AUC: 0.9023
+F1: 0.7504
+MCC: 0.6221
+Precision: 0.7720
+Recall: 0.7299
+
+Confusion Matrix:
+[[2792  367]
+ [ 460 1243]]
+
+Classification Report:
+                   pre       rec       spe        f1       geo       iba       sup
+
+      False       0.86      0.88      0.73      0.87      0.80      0.66      3159
+       True       0.77      0.73      0.88      0.75      0.80      0.64      1703
+
+avg / total       0.83      0.83      0.78      0.83      0.80      0.65      4862
+
+
+Results for SVM (TRAIN):
+Accuracy: 0.9753
+AUC: 0.9930
+F1: 0.9643
+MCC: 0.9456
+Precision: 0.9762
+Recall: 0.9527
+
+Confusion Matrix:
+[[12480   158]
+ [  322  6488]]
+
+Classification Report:
+                   pre       rec       spe        f1       geo       iba       sup
+
+      False       0.97      0.99      0.95      0.98      0.97      0.94     12638
+       True       0.98      0.95      0.99      0.96      0.97      0.94      6810
+
+avg / total       0.98      0.98      0.96      0.98      0.97      0.94     19448
+
+
+Best Parameters:
+{'C': 3220.851310553578, 'kernel': 'rbf', 'gamma': 1.573574177851053e-05}
+
+Training Random Forest...
+
+Results for Random Forest (TEST):
+Accuracy: 0.8540
+AUC: 0.9256
+F1: 0.7770
+MCC: 0.6728
+Precision: 0.8352
+Recall: 0.7264
+
+Confusion Matrix:
+[[2915  244]
+ [ 466 1237]]
+
+Classification Report:
+                   pre       rec       spe        f1       geo       iba       sup
+
+      False       0.86      0.92      0.73      0.89      0.82      0.68      3159
+       True       0.84      0.73      0.92      0.78      0.82      0.66      1703
+
+avg / total       0.85      0.85      0.80      0.85      0.82      0.67      4862
+
+
+Results for Random Forest (TRAIN):
+Accuracy: 0.9876
+AUC: 0.9994
+F1: 0.9819
+MCC: 0.9728
+Precision: 0.9998
+Recall: 0.9646
+
+Confusion Matrix:
+[[12637     1]
+ [  241  6569]]
+
+Classification Report:
+                   pre       rec       spe        f1       geo       iba       sup
+
+      False       0.98      1.00      0.96      0.99      0.98      0.97     12638
+       True       1.00      0.96      1.00      0.98      0.98      0.96      6810
+
+avg / total       0.99      0.99      0.98      0.99      0.98      0.97     19448
+
+
+Best Parameters:
+{'n_estimators': 360, 'max_depth': 57, 'min_samples_split': 8, 'min_samples_leaf': 3, 'max_features': 'sqrt'}
+
+Training XGBoost...
+
+Results for XGBoost (TEST):
+Accuracy: 0.8616
+AUC: 0.9363
+F1: 0.8063
+MCC: 0.6990
+Precision: 0.7906
+Recall: 0.8227
+
+Confusion Matrix:
+[[2788  371]
+ [ 302 1401]]
+
+Classification Report:
+                   pre       rec       spe        f1       geo       iba       sup
+
+      False       0.90      0.88      0.82      0.89      0.85      0.73      3159
+       True       0.79      0.82      0.88      0.81      0.85      0.72      1703
+
+avg / total       0.86      0.86      0.84      0.86      0.85      0.73      4862
+
+
+Results for XGBoost (TRAIN):
+Accuracy: 1.0000
+AUC: 1.0000
+F1: 1.0000
+MCC: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+
+Confusion Matrix:
+[[12638     0]
+ [    0  6810]]
+
+Classification Report:
+                   pre       rec       spe        f1       geo       iba       sup
+
+      False       1.00      1.00      1.00      1.00      1.00      1.00     12638
+       True       1.00      1.00      1.00      1.00      1.00      1.00      6810
+
+avg / total       1.00      1.00      1.00      1.00      1.00      1.00     19448
+
+
+Best Parameters:
+{'n_estimators': 525, 'max_depth': 14, 'learning_rate': 0.09231972475439738, 'subsample': 0.9992707236412883, 'colsample_bytree': 0.650832203397447, 'min_child_weight': 4, 'gamma': 0.707093291483827, 'reg_alpha': 0.9200519222241569, 'reg_lambda': 0.9393638250067533, 'scale_pos_weight': 1.6638021181684965}
+
+Creating ensemble model...
+/home/prateek/miniconda3/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:469: ConvergenceWarning: lbfgs failed to converge (status=1):
+STOP: TOTAL NO. of ITERATIONS REACHED LIMIT.
+
+Increase the number of iterations (max_iter) or scale the data as shown in:
+    https://scikit-learn.org/stable/modules/preprocessing.html
+Please also refer to the documentation for alternative solver options:
+    https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
+  n_iter_i = _check_optimize_result(
+
+Ensemble Model Results:
+Accuracy: 0.8606
+AUC: 0.9334
+F1: 0.7966
+MCC: 0.6910
+Precision: 0.8142
+Recall: 0.7798
+
+Confusion Matrix:
+[[2856  303]
+ [ 375 1328]]
+
+Classification Report:
+                   pre       rec       spe        f1       geo       iba       sup
+
+      False       0.88      0.90      0.78      0.89      0.84      0.71      3159
+       True       0.81      0.78      0.90      0.80      0.84      0.70      1703
+
+avg / total       0.86      0.86      0.82      0.86      0.84      0.71      4862
+
+
+Saving models...
+All models saved successfully.
